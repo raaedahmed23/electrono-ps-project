@@ -1,4 +1,4 @@
-# electrono-ps-project
+# Data Aggregation and Validation Engine
 
 Each cycle of a CNC machine runs for 300+-5 secs. During this time multiple readings of 'Spindle Load' are taken. 
 Our goal was to parse the given file which contained readings and store the mean, std, min, max for each of the reading of the cycle. 
